@@ -1,0 +1,41 @@
+com/example/tvlearn/PlaybackActivity.java
+ com.example.tvlearn.PlaybackActivity
+com/example/tvlearn/DetailsActivity.java
+ com.example.tvlearn.DetailsActivity
+com/example/tvlearn/PlaybackVideoFragment.java
+ com.example.tvlearn.PlaybackVideoFragment
+com/example/tvlearn/ErrorFragment.java
+ com.example.tvlearn.ErrorFragment
+ com.example.tvlearn.ErrorFragment$1
+com/example/tvlearn/DetailsDescriptionPresenter.java
+ com.example.tvlearn.DetailsDescriptionPresenter
+com/example/tvlearn/BuildConfig.java
+ com.example.tvlearn.BuildConfig
+com/example/tvlearn/MovieList.java
+ com.example.tvlearn.MovieList
+com/example/tvlearn/Movie.java
+ com.example.tvlearn.Movie
+com/example/tvlearn/VideoDetailsFragment.java
+ com.example.tvlearn.VideoDetailsFragment
+ com.example.tvlearn.VideoDetailsFragment$1
+ com.example.tvlearn.VideoDetailsFragment$2
+ com.example.tvlearn.VideoDetailsFragment$3
+ com.example.tvlearn.VideoDetailsFragment$ItemViewClickedListener
+com/example/tvlearn/CardPresenter.java
+ com.example.tvlearn.CardPresenter
+ com.example.tvlearn.CardPresenter$1
+com/example/tvlearn/MainFragment.java
+ com.example.tvlearn.MainFragment
+ com.example.tvlearn.MainFragment$1
+ com.example.tvlearn.MainFragment$2
+ com.example.tvlearn.MainFragment$GridItemPresenter
+ com.example.tvlearn.MainFragment$ItemViewClickedListener
+ com.example.tvlearn.MainFragment$ItemViewSelectedListener
+ com.example.tvlearn.MainFragment$UpdateBackgroundTask
+ com.example.tvlearn.MainFragment$UpdateBackgroundTask$1
+com/example/tvlearn/BrowseErrorActivity.java
+ com.example.tvlearn.BrowseErrorActivity
+ com.example.tvlearn.BrowseErrorActivity$1
+ com.example.tvlearn.BrowseErrorActivity$SpinnerFragment
+com/example/tvlearn/MainActivity.java
+ com.example.tvlearn.MainActivity
